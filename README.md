@@ -39,6 +39,6 @@ Follow these instructions to get a local copy of the project running on your mac
 
 ## Dependencies
 * **AOS (Animate on Scroll):** Adds animations to HTML elements during scroll.
-    * Link: AOS Documentation(https://michalsnik.github.io/aos/)
+    * Link: [AOS Documentation](https://michalsnik.github.io/aos/)
 * **Google Fonts:** Utilizes the "Inter" font family.
-    *   Link: Google Fonts(https://fonts.google.com/)
+    *   Link: [Google Fonts](https://fonts.google.com/)
